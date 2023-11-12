@@ -20,5 +20,5 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/whatsapp-clone-flutter.git
+   git@github.com:MadanBabu1314114/whatsappclone_flutter.git
    cd whatsapp-clone-flutter
